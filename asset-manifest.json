@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7b31cb93.css",
+    "main.js": "/react-portfolio/static/js/main.f35c9a6c.js",
+    "static/media/avatar.jpg": "/react-portfolio/static/media/avatar.cfa7a9f597738900fcb6.jpg",
+    "static/media/wokr-react.png": "/react-portfolio/static/media/wokr-react.467678db79ae4f20b004.png",
+    "static/media/work-js.png": "/react-portfolio/static/media/work-js.0b9b25b238df981c1ade.png",
+    "static/media/softserve-certificate.pdf": "/react-portfolio/static/media/softserve-certificate.a5e53daf38dca0430219.pdf",
+    "static/media/Kravets_CV.pdf": "/react-portfolio/static/media/Kravets_CV.eb442c82ccd16c962073.pdf",
+    "static/media/sk-logo.svg": "/react-portfolio/static/media/sk-logo.1f3bf24456d616b455f24f89007a8044.svg",
+    "static/media/dots-bg.svg": "/react-portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.7b31cb93.css.map": "/react-portfolio/static/css/main.7b31cb93.css.map",
+    "main.f35c9a6c.js.map": "/react-portfolio/static/js/main.f35c9a6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b31cb93.css",
+    "static/js/main.f35c9a6c.js"
+  ]
+}
